@@ -47,20 +47,11 @@ Welcome to the Portable Potentiostat project! This repository contains the backe
       ```
     - Configure PostgreSQL database settings in `config.py`.
 
-    - Run database migrations:
-      ```bash
-      flask db upgrade
-      ```
-
-    - Start the backend server:
-      ```bash
-      flask run
-      ```
 
 3. **Setup Frontend**
     - Navigate to the frontend directory:
       ```bash
-      cd frontend
+      git clone https://github.com/oreoluwa212/Potentiostat_Project
       ```
     - Install npm packages:
       ```bash
